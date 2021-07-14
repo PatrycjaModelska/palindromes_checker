@@ -1,5 +1,6 @@
 /* Poprawione zostały najważniejsze błędy w kodzie. Wykonano m.in.: ujednolicenie klauzuli "if", usystematyzowanie
-nazw zmiennych i metod, usunięcie zbędnych zmiennych, wprowadzenie krótszych zamienników dla niektórych komend. */
+nazw zmiennych i metod, usunięcie zbędnych zmiennych, wprowadzenie krótszych zamienników dla niektórych komend. 
+Więcej tutaj: https://github.com/PatrycjaModelska/palindromes_checker */
 
 import java.util.ArrayList;
 import java.util.List;
